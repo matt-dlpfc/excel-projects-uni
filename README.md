@@ -19,7 +19,9 @@ Let’s first have a look inside the first file 2013_solar.xlsx
 
 ### CREATE A POWER QUERY TO
 i. Consolidate all the auction results.
+
 ii. Merge it with ‘region’ file. This will allow you to break down the project data by energy zones (socalled unified power systems - UPS).
+
 iii. Merge it with ’UPS’ file. You happen to find also some useful data about overall capacity demand (that is an approximation of how much power investment will be needed in different areas) and electrical grid conditions (that might affect the realization of the investment project). This data only for UPSs, but you want to have it together with the final data because that would help you to judge where to direct the Fortum’s investment focus for the future. 
 
 ### BUILD AN INTERACTIVE DASHBOARD
